@@ -1,2 +1,2 @@
 # TSP
-method to solve TSP
+methods to solve TSP
